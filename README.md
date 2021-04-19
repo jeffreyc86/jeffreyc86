@@ -1,6 +1,21 @@
-### Hi there 👋
+<img src="./banner.jpg" alt="name banner" />
 
-### 🛠  Languages and Tools
+### About Me
+I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
+
+<div align="center">
+<a href="https://www.linkedin.com/in/jchiu86/">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:mr.jeffrey.chiu@gmail.com">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+<a href="https://jeffrey-chiu.medium.com/">
+<img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>
+</div>
+
+### Languages and Tools 🛠
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
@@ -19,12 +34,13 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
 <img src="https://img.shields.io/badge/semanti%20ui-35BDB2?style=for-the-badge&logo=semantic%20ui%20react&logoColor=white" alt="semantic ui" />
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 
-### 📈 GitHub Stats
+### GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/jeffreyc86">
  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars" alt="Jeffrey's GitHub Stats" />
@@ -32,6 +48,9 @@
 </a>
 </p>
 
+### Currently Learning 🧠
+- How to code in <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+- Algorithms and data structures
 
 ---
 
