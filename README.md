@@ -4,7 +4,7 @@
 I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/jchiu86/">
+<a href="https://www.linkedin.com/in/jchiu86">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:mr.jeffrey.chiu@gmail.com">
@@ -51,7 +51,7 @@ I am a design-minded developer with a background in sales and client management.
 </p>
 
 ### Currently Learning 🧠
-- How to code in <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 - Algorithms and data structures
 
 ---
