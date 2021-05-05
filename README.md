@@ -4,6 +4,9 @@
 I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
 
 <div align="center">
+<a href="https://jeffreychiu.dev/">
+<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/jchiu86">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
