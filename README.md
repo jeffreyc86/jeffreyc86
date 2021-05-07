@@ -1,4 +1,4 @@
-<a>![banner](./banner.jpg)</a>
+<img src="./banner.jpg" alt="name banner" />
 
 ### About Me
 I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge.
@@ -20,8 +20,8 @@ I am a design-minded developer with a background in sales and client management.
 
 ### Languages and Tools 🛠
 <div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="pointer-events: none; cursor: default" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" style="pointer-events: none; cursor: default" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
 <img src="https://img.shields.io/badge/Ruby%20on%20rails-CC0000?style=for-the-badge&logo=ruby%20on%20rails&logoColor=white" alt="rails" />
