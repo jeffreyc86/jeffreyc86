@@ -4,13 +4,13 @@
 I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
 
 <div align="center">
-<a href="https://jeffreychiu.dev/">
+<a href="https://jeffreychiu.dev/" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/jchiu86">
+<a href="https://www.linkedin.com/in/jchiu86" target="_blank">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://jeffrey-chiu.medium.com/">
+<a href="https://jeffrey-chiu.medium.com/" target="_blank">
 <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </a>
 <a href="mailto:mr.jeffrey.chiu@gmail.com">
