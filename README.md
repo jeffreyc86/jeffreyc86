@@ -51,7 +51,7 @@ I am a design-minded developer with a background in sales and client management.
 ### GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/jeffreyc86">
- <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=issues&hide_border=true" alt="Jeffrey's GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&layout=compact&hide_border=true" alt="Jeffrey's Language Stats" />
 </a>
 </p>
