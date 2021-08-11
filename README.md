@@ -1,7 +1,7 @@
 <img src="./banner.jpg" alt="name banner" />
 
 ### About Me
-I am a design-minded developer with a background in sales and client management. Experienced in JavaScript-based programming, especially React and Redux, as well as Ruby on Rails. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
+
 
 <div align="center">
 <a href="https://jeffreychiu.dev/">
