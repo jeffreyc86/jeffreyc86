@@ -52,6 +52,21 @@
 
 ### GitHub Stats 📈
 <div class="container">
+  <style>
+    .container {
+      text-align: center;
+    }
+    .container:before {
+      content: ' ';
+      display: inline-block;
+      vertical-align: middle;
+      height: 100%;
+    }
+    .image{
+      display: inline-block;
+      vertical-align: middle;
+    }
+  </style>
   <a class="image" href="https://github.com/jeffreyc86">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" />
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" /> -->
@@ -70,18 +85,3 @@
 </div>
 
 <!-- style sheet -->
-<style>
-  .container {
-    text-align: center;
-  }
-  .container:before {
-    content: ' ';
-    display: inline-block;
-    vertical-align: middle;
-    height: 100%;
-  }
-  .image{
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
