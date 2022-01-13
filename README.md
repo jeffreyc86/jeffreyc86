@@ -53,9 +53,9 @@
 ### GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/jeffreyc86">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&layout=compact&hide_border=true" alt="Jeffrey's Language Stats" /> -->
- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github-dark" alt="Jeffrey's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" />
+ <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github-dark" alt="Jeffrey's GitHub Stats" /> -->
 </a>
 </p>
 
