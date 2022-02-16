@@ -55,7 +55,7 @@
   <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" vertical-align="middle">
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/jeffreyc86">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
@@ -63,7 +63,7 @@
           </a>
         </div>
         </td>
-        <td width="50%" vertical-align="middle">
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/jeffreyc86">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
@@ -73,9 +73,6 @@
       </tr>
     </tbody>
   <table>
-  <!-- <a href="https://github.com/jeffreyc86">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" />
-  </a> -->
 <div>
 
 ---
