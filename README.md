@@ -18,6 +18,7 @@
 </a>
 </div>
 
+<!--
 ### Languages, Tools, and Skills 🛠
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -60,7 +61,7 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
 
-<!-- ### GitHub Stats 📈
+### GitHub Stats 📈
 <div align="center">
   <table width="100%">
     <tbody>
